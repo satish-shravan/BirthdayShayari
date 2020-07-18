@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="top.latest.birthdayshayari">
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:appComponentFactory">
+        <activity android:name=".ShowGifts"
+            android:label="Trending Gifts Suggestions"
+            android:theme="@style/sky"></activity>
+        <activity android:name=".UploadGifts"
+            android:label="Upload Gifts"
+            android:theme="@style/insta"/>
+        <activity
+            android:name=".Splash"
+            android:theme="@style/Theme.Design.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Main2Activity"
+            android:theme= "@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".more"
+            android:label="Shayari Collection"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".ShowImages"
+            android:label="Trending Motivational Quote&apos;s "
+            android:theme="@style/insta" />
+        <activity android:name=".UploadImages" />
+        <activity
+            android:name=".InstaIconHolder"
+            android:label="Categories for Captions :) "
+            android:theme="@style/insta" />
+
+        <activity
+            android:name=".savage"
+            android:label="Caption for SAVAGE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".foodie"
+            android:label="Caption for FOODIE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".flirt"
+            android:label="Caption for FLIRT"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".fitness"
+            android:label="Caption for FITNESS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".festival"
+            android:label="Caption for FESTIVAL"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".father_day"
+            android:label="Caption for FATHER DAY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".diwali"
+            android:label="Caption for DIWALI"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".days"
+            android:label="Caption for WEEKENDS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".cool"
+            android:label="Caption for COOL"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".confused"
+            android:label="Caption for CONFUSED"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".christmas"
+            android:label="Caption for MERRY-CHRISTMAS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".childhood"
+            android:label="Caption for CHILDHOOD"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".miss"
+            android:label="Caption for MISS-YOU"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".man_hair"
+            android:label="Caption for HAIR STYLE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".makeup"
+            android:label="Caption for MAKE-UP"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".love_insta"
+            android:label="Caption for LOVE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".life"
+            android:label="Caption for LIFE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".jealous"
+            android:label="Caption for JEALOUS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".hurt"
+            android:label="Caption for HURT"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".happy"
+            android:label="Caption for HAPPY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".get_wellsoon"
+            android:label="Caption for GET WELL SOON"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".friendship_insta"
+            android:label="Caption for FRIENDSHIP"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".football"
+            android:label="Caption for SPORTS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".sad"
+            android:label="Caption for SAD"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".romantic"
+            android:label="Caption for ROMANTIC"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".shy"
+            android:label="Caption for SHY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".shopping"
+            android:label="Caption for SHOPPING"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".selfie"
+            android:label="Caption for SELFIE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".relax"
+            android:label="Caption for RELAX"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".rainy"
+            android:label="Caption for RAINY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".photo"
+            android:label="Caption for PHOTOGRAPHY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".party"
+            android:label="Caption for PARTY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".nav_ratri"
+            android:label="Caption for NAV RATRI"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".nature"
+            android:label="Caption for NATURE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".motivation_insta"
+            android:label="Caption for MOTIVATION"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".mother_day"
+            android:label="Caption for MOTHER DAY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".moody"
+            android:label="Caption for THANKS-GIVING"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".calm"
+            android:label="Caption for CALM"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".brother"
+            android:label="Caption for BROTHER"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".time"
+            android:label="Caption for TIME"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".travel"
+            android:label="Caption for TRAVEL"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".trust"
+            android:label="Caption for TRUST"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".style"
+            android:label="Caption for FASHION-STYLE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".sorry"
+            android:label="Caption for SORRY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".sleepy"
+            android:label="Caption for SLEEPY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".bird"
+            android:label="Caption for BIRD LOVERS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".bicycle"
+            android:label="Caption for BICYCLE -BIKES"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".beard"
+            android:label="Caption for BEARD"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".attitude_insta"
+            android:label="Caption for ATTITUDE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".annoyed"
+            android:label="Caption for ANNOYED"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".aniversary"
+            android:label="Caption for ANNIVERSARY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".animal"
+            android:label="Caption for ANIMAL-LOVERS"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".angry"
+            android:label="Caption for ANGRY"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".alone"
+            android:label="Caption for ALONE"
+            android:theme="@style/insta" />
+        <activity
+            android:name=".MainActivity"
+            android:label="BIRTHDAY SHAYARI"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".attitude"
+            android:label="Attitude Status"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".dard"
+            android:label="Best Dard Shayari/दर्द भरी शायरी"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".friend"
+            android:label="Friendship Shayari"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".chrismas"
+            android:label="मेरी क्रिसमस संदेश"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".new_year"
+            android:label="HAPPY NEW YEAR 2020"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".hindi"
+            android:label="Hindi Motivation Quotes"
+            android:theme="@style/sky" />
+        <activity
+            android:name=".morning"
+            android:label=" GOOD MORNING "
+            android:theme="@style/sky" />
+        <activity
+            android:name=".night"
+            android:label=" GOOD NIGHT "
+            android:theme="@style/sky" />
+        <activity
+            android:name=".program_quote"
+            android:label=" PROGRAMMING QUOTES "
+            android:theme="@style/sky" />
+        <activity
+            android:name=".motivation"
+            android:label=" MOTIVATIONAL QUOTES "
+            android:theme="@style/sky" />
+
+        <activity
+            android:name=".status"
+            android:label=" FUNNY JOKES :) "
+            android:theme="@style/sky" />
+        <activity
+            android:name=".love"
+            android:label=" LOVE SHAYARI  "
+            android:theme="@style/insta" />
+        <activity
+            android:name=".birthday"
+            android:label=" BIRTHDAY SHAYARI "
+            android:theme="@style/sky" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+        <receiver android:name=".Main2Activity" />
+    </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7D44AA</color>
+    <color name="colorPrimaryDark">#A971D6</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="skyblue">#1B11B4CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="silver">#E1B2E9</color>
+    <color name="textcolor">#D50000</color>
+    <color name="sky">#18B3E9</color>
+
+    <color name="back">#F5CC02</color>
+
+    <color name="new_color">#BAE61D1D</color>
+
+    <color name="card">#55CFE0</color>
+
+    <color name="newcol">#000000</color>
+
+    <color name="newcolor">#E66060</color>
+
+
+</resources>

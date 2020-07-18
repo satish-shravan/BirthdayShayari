@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_marginTop="2dp" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#000000">
+    <androidx.cardview.widget.CardView  android:gravity="center" android:id="@+id/card1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="2dp" app:cardCornerRadius="10dp" app:cardElevation="8dp" android:background="#000000">
+        <LinearLayout  android:padding="5dp" android:id="@+id/parent_ly" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout  android:padding="5dp"  android:background="#FFFFFF" android:orientation="horizontal" android:id="@+id/linear_layout" android:layout_width="match_parent" android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/img"
+                    android:src="@drawable/birthday_img"
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_marginLeft="5dp"/>
+
+                <TextView android:layout_gravity="center_vertical" android:fontFamily="@font/scada" android:layout_marginLeft="20dp" android:text="GOOGLE" android:textSize="16sp"  android:textColor="#C31414" android:textStyle="bold" android:gravity="center" android:id="@+id/data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="15dp"/>
+
+            </LinearLayout>
+
+            <Button
+                android:layout_marginTop="5dp"
+                android:id="@+id/btn_link"
+                android:background="@drawable/promote_round"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:fontFamily="@font/scada"
+                android:text="Check Price on Amazon"
+                android:textColor="#ffffff"
+                android:gravity="center"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
