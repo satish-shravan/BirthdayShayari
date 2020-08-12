@@ -3,8 +3,8 @@
 Photo without a caption is like a book without a title.
 
 
-## (100K+ Downloads) Get it on Play Store : 
-https://play.google.com/store/apps/details?id=top.latest.birthdayshayari&hl=en_IN
+## 100K+ Downloads on Google Play Store : 
+
 ### Features :
      1. Offline app
      2. More 10+ shayari categories
