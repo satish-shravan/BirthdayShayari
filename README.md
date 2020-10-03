@@ -1,4 +1,5 @@
 # BirthdayShayari 2.0
+
 ## More than 10k+ original shayari and Caption for Instagram with dark theme
 Photo without a caption is like a book without a title.
 
@@ -12,9 +13,13 @@ Photo without a caption is like a book without a title.
      4. Motivational Quote Photos for download
      5. Birthday Gift suggestion for loved ones
      
-     
-![1](https://user-images.githubusercontent.com/56028279/87851698-f846a980-c918-11ea-910f-48979d5d343f.png)
-![2](https://user-images.githubusercontent.com/56028279/87851701-009ee480-c919-11ea-8bd6-d73053ef7e1a.png)
-![3](https://user-images.githubusercontent.com/56028279/87851705-04326b80-c919-11ea-832e-1e12890c126d.png)
-![4](https://user-images.githubusercontent.com/56028279/87851707-08f71f80-c919-11ea-8a93-0e30dda8f657.png)
-![5](https://user-images.githubusercontent.com/56028279/87851711-0eed0080-c919-11ea-9a5d-d3612558c940.png)
+  
+
+
+   
+![20201001_113804_0000](https://user-images.githubusercontent.com/56028279/94994444-403ea980-05b5-11eb-8c08-1505b7835d3f.png)
+![20201001_113531_0000](https://user-images.githubusercontent.com/56028279/94994448-4765b780-05b5-11eb-8e67-4b7314095b31.png)
+![20201001_113531_0003](https://user-images.githubusercontent.com/56028279/94994453-4df42f00-05b5-11eb-818a-ac0639b26bc3.png)
+![20201001_113531_0002](https://user-images.githubusercontent.com/56028279/94994455-50568900-05b5-11eb-830f-0af3ab2df0dd.png)
+![20201001_113531_0001](https://user-images.githubusercontent.com/56028279/94994464-58162d80-05b5-11eb-8ff5-57580ec24ac6.png)
+![20201001_113531_0004](https://user-images.githubusercontent.com/56028279/94994462-56e50080-05b5-11eb-9776-b3e23bda027c.png)
