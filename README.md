@@ -7,7 +7,7 @@ Photo without a caption is like a book without a title.
 ## 100K+ Downloads on Google Play Store : 
 
 ### Features :
-     1. Offline+Online app
+     1. Offline + Online app
      2. More 10+ shayari categories
      3. More 50+ caption categoty i.e Caption for every movement of life.
      4. Motivational Quote Photos for download
